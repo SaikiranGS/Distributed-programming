@@ -9,6 +9,6 @@ The purpose of this project is to calculate the term frequency(TF), inverse docu
   4. tf_idf_calculation.py : Using the output of tf and idf, tf-idf score is calculated using parallel processing MPI.
   5. MPI_news_20_group.pdf : This is the detailed description of all the work I have done to implement the above described files.
  
-# MPI command to execute the above programs
+# MPI command to execute all programs
 
 mpiexec -n "no:of workers(ex:1,2,4,..n)" python "FileName".py(extension)
