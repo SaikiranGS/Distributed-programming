@@ -9,6 +9,7 @@ The purpose of this project is to calculate the term frequency(TF), inverse docu
   4. tf_idf_calculation.py : Using the output of tf and idf, tf-idf score is calculated using parallel processing MPI.
   5. k-means_mpi.py : Distributed K-means clustering algorithm using mpi on results obtained from tf_idf_calculation.py
   6. MPI_news_20_group.pdf : This is the detailed description of all the work I have done to implement the above described files.
+  7. Distributed_k-means_clustering_mpi_report.pdf : This is the detailed description of k-means clustering implementation using mpi on tf-idf scores obtained using 20-news group article dataset
  
 # MPI command to execute all programs
 
