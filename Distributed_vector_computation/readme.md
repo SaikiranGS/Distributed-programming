@@ -1,8 +1,11 @@
 # Distributed Programming using Message Passing Interface (MPI)
 
-The purpose of this project is to perform some basic vector and matrix computation on a distributed programming using MPI (point to point and collective communication). For this project implementation.
+The purpose of this project is to perform some basic vector and matrix computation on a distributed programming using MPI (point to point and collective communication). 
 # Description about files
-  1. clean_tokenize.py : Data preprocesssing tasks like data cleaning and word tokenizing of large corpus using parallel processing MPI.
+  1. vector_addition.py : Add two vectors and store results in a third vector using parallel processing MPI.
+  2. vector_average.py: Find an average of numbers in a vector using parallel processing MPI.
+  3.vector_multiplication.py: Parallel Operation using MPI-point to point communication
+  4. matrix_multiplication.py: Parallel Operation using MPI- collective communication
   
  
 # MPI command to execute all programs
