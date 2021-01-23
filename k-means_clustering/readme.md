@@ -1,4 +1,4 @@
-# Distributed Programming using Message Passing Interface (MPI)
+# Distributed k-means clustering using Message Passing Interface (MPI)
 
 The purpose of this project is to implement the distributed k-means cluster algorithm using MPI based on the tf-idf scores calculated on 20-news groupl article dataset. 
 
