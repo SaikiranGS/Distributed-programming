@@ -4,7 +4,7 @@ The purpose of this project is to perform some basic vector and matrix computati
 # Description about files
   1. vector_addition.py : Add two vectors and store results in a third vector using parallel processing MPI.
   2. vector_average.py: Find an average of numbers in a vector using parallel processing MPI.
-  3.vector_multiplication.py: Parallel Operation using MPI-point to point communication
+  3.vector_multiplication.py: Parallel Operation using MPI-point to point communication.
   4. matrix_multiplication.py: Parallel Operation using MPI- collective communication
   
  
