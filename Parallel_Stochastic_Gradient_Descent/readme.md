@@ -1,4 +1,4 @@
-# Distributed k-means clustering using Message Passing Interface (MPI)
+# Parallel Stochastic Gradient Descent using Message Passing Interface (MPI)
 
 The purpose of this project is to implement parallel stochastic gradient descent (PSGD) algorithm algorithm using MPI on two different regression kaggle datasets. 
 
